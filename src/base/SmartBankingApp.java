@@ -4,7 +4,6 @@ import java.util.Scanner;
 
 public class SmartBankingApp{
     public static void main(String[] args) {
-        //Auto-gen stub
 
         BankAcc customer1 = new BankAcc("Ms. Geethya Tennakoon", "001");
         customer1.showMenu();
